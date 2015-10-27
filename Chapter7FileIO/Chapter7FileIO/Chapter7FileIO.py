@@ -22,3 +22,4 @@ for record in fileInput:
     fileOutput.write(recordOut)
 
 fileInput.close()
+fileOutput.close()
