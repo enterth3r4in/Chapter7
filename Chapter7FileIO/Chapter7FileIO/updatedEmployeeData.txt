@@ -1,0 +1,10 @@
+Matthews,47 Maple,19.0
+Smith,212 Oak,16.35
+Zimmerman,6218 Pine,22.1
+Garcia,2018 Ash,17.85
+Williams,992 Beech,21.23
+Lewis,496 Oak,18.94
+Halman,53 Maple,63.29
+Miller,95 75th,25.24
+Howe,88 DeLonge,44.5
+Richardson,102 Oakland,12.04
